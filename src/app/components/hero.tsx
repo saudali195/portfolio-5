@@ -162,7 +162,7 @@ export default function Hero() {
     }}
   >
     <Image
-      src="/9.jpg"
+      src="/10.jpeg"
       alt="Saud Muhammad Ali"
       fill
       className="object-cover p-2"
